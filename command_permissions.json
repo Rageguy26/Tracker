@@ -1,0 +1,14 @@
+{
+    "admin_commands": [
+        "forcesave",
+        "botstop",
+        "deletefilter"
+    ],
+    "user_commands": [
+        "help",
+        "watched",
+        "watchword"
+    ],
+    "admindashboard": [],
+    "..stopbot": []
+}
